@@ -1,0 +1,9 @@
+{
+  "name": "tvbridge",
+  "appName": "TVBridge",
+  "version": "1.0.0",
+  "description": "LAN bridge to the TV's local adb server and developer-mode IP setter (TizenBrew service module).",
+  "packageType": "app",
+  "appPath": "index.html",
+  "serviceFile": "service.js"
+}
